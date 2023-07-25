@@ -1,3 +1,4 @@
+# Function for Time Record
 FUN_TimeRec <- function(InputData = Count.mtx,
                         Method_Name = "Nor_Seurat_Log",
                         Set_Times = 20,
